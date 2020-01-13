@@ -23,7 +23,10 @@ bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic Kafka_Ex
 
 ## Publish message via WebService
 http://localhost:8081/kafka/publish/test1
-http://localhost:8081/kafka/publish/test2
 
 ## reference 
-https://www.youtube.com/watch?v=NjHYWEV_E_o
+https://www.youtube.com/watch?v=NjHYWEV_E_o   
+https://www.youtube.com/watch?v=IncG0_XSSBg 
+
+## kafka docs
+https://kafka.apache.org/
